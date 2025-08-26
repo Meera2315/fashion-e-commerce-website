@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4a4b71ac.css",
+    "main.js": "/static/js/main.139912cb.js",
+    "static/js/453.8adb0212.chunk.js": "/static/js/453.8adb0212.chunk.js",
+    "static/media/offer.gif": "/static/media/offer.4d7a9ffd8952188dbcc5.gif",
+    "static/media/shoppinng_family.png": "/static/media/shoppinng_family.3086d03c54a90123e82b.png",
+    "static/media/jeans.png": "/static/media/jeans.33b54131230731051e72.png",
+    "static/media/men.png": "/static/media/men.c17c500f40a2462bd42a.png",
+    "static/media/kid.png": "/static/media/kid.f40e5b2a84ea28f681c5.png",
+    "static/media/access.png": "/static/media/access.77adfaf7bf85daeabe91.png",
+    "static/media/blush.png": "/static/media/blush.1f775ed6247e99b25514.png",
+    "static/media/women_saree.png": "/static/media/women_saree.d7dd4973deeecb0763f7.png",
+    "static/media/sale.gif": "/static/media/sale.1343cf13520f84e85502.gif",
+    "static/media/kurti2.png": "/static/media/kurti2.a92e44525c5d9f92a7da.png",
+    "static/media/beauty_alo.png": "/static/media/beauty_alo.1b695116a786ffa433cb.png",
+    "static/media/kurti.png": "/static/media/kurti.e149b9f5bcd9c2696554.png",
+    "static/media/fountation.png": "/static/media/fountation.f42d70ce85648e8396b9.png",
+    "static/media/saree2.png": "/static/media/saree2.5dec9c22f5143f676aae.png",
+    "static/media/girl.png": "/static/media/girl.a9ebe9f4d397b5d17f0e.png",
+    "static/media/boy.png": "/static/media/boy.804fd95ff65afee46045.png",
+    "static/media/profile.png": "/static/media/profile.d30fb1ab9a2095309fe8.png",
+    "static/media/logo.png": "/static/media/logo.5fad56426a01e6f48ac1.png",
+    "static/media/search.png": "/static/media/search.585ceefc800661f854b6.png",
+    "static/media/threedot.png": "/static/media/threedot.c08cb5d3c989c185248f.png",
+    "index.html": "/index.html",
+    "main.4a4b71ac.css.map": "/static/css/main.4a4b71ac.css.map",
+    "main.139912cb.js.map": "/static/js/main.139912cb.js.map",
+    "453.8adb0212.chunk.js.map": "/static/js/453.8adb0212.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a4b71ac.css",
+    "static/js/main.139912cb.js"
+  ]
+}
